@@ -1,0 +1,12 @@
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/bin/Debug/netcoreapp2.1/NotificationDispatcher.deps.json
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/bin/Debug/netcoreapp2.1/NotificationDispatcher.runtimeconfig.json
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/bin/Debug/netcoreapp2.1/NotificationDispatcher.runtimeconfig.dev.json
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/bin/Debug/netcoreapp2.1/NotificationDispatcher.dll
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/bin/Debug/netcoreapp2.1/NotificationDispatcher.pdb
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/obj/Debug/netcoreapp2.1/NotificationDispatcher.csprojAssemblyReference.cache
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/obj/Debug/netcoreapp2.1/NotificationDispatcher.AssemblyInfoInputs.cache
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/obj/Debug/netcoreapp2.1/NotificationDispatcher.AssemblyInfo.cs
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/obj/Debug/netcoreapp2.1/NotificationDispatcher.csproj.CoreCompileInputs.cache
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/obj/Debug/netcoreapp2.1/NotificationDispatcher.dll
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/obj/Debug/netcoreapp2.1/NotificationDispatcher.pdb
+/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationDispatcher/obj/Debug/netcoreapp2.1/NotificationDispatcher.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCyM2lubGTzaMyR6EQ51PNZEoWO4S5X2ZFHbh7Tm88kvQNppALFk7m8M0RzVijP4xlJf2aRXcyT4ecmN+XpFKQ==",
+  "success": true,
+  "projectFilePath": "/Users/Sharmi/Desktop/cert/Notification_Hub/NotificationHubSample/NotificationHubSample.iOS/NotificationHubSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Sharmi/.nuget/packages/xamarin.azure.notificationhubs.ios/3.1.0/xamarin.azure.notificationhubs.ios.3.1.0.nupkg.sha512",
+    "/Users/Sharmi/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
